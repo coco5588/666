@@ -8,7 +8,7 @@ html,body { padding: 0;margin: 0; background: #272727;font: 400 16px/1.7 "Micros
 div,ul,li,h1,p,h2{padding: 0;margin: 0;}
 ul,li{list-style: none;}
 .main{text-align: center;}
-.content{ margin:0 auto; width:90%;}
+.content{ margin:0 auto; width:100%;}
 #lovexin12,#lovexin14{border:2px solid red;z-index:9999;
 }
 @media only screen and (min-width:0px) and (max-width:1120px){
