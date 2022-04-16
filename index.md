@@ -9,7 +9,7 @@ html,body { padding: 0;margin: 0; background: #272727;font: 400 16px/1.7 "Micros
 div,ul,li,h1,p,h2{padding: 0;margin: 0;}
 ul,li{list-style: none;}
 .main{text-align: center;}
-.content{ margin:0 auto; width:100%;}
+.content{ margin:0 auto; width:90%;}
 #lovexin12,#lovexin14{border:2px solid red;z-index:9999;
 }
 @media only screen and (min-width:0px) and (max-width:1120px){
@@ -39,7 +39,7 @@ loadCSS();
 <div class="daohang_t">
 <h2>最新自动导航地址</h2>
 <ul>
-<li>大人导航</li><li><a href="https://www.darendh13.xyz" target="_blank">https://www.darendh13.xyz</a></li>
+<li>大人导航</li><li><a href="https://www.darendh13.xyz" target="_blank">[立即访问]</a></li>
 <li>蓝色导航3.0</li><li><a href="https://www.lansedh13.xyz" target="_blank">https://www.lansedh13.xyz</a></li>
 <li>一路向西导航</li><li><a href="https://www.xxdh19.xyz" target="_blank">https://www.xxdh19.xyz</a></li>
 <li>男人天堂导航</li><li><a href="https://www.nanrendh13.xyz" target="_blank">https://www.nanrendh13.xyz</a></li>
